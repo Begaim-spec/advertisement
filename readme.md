@@ -1,6 +1,4 @@
-###This is an example of my portfolio.
-
-#####Advertising company website.
+#Advertising company website. 
 Following technologies and libraries used:
 
 * html

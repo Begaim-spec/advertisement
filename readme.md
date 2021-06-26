@@ -1,4 +1,4 @@
-#Advertising company website. 
+# Advertising company website.  <br>
 Following technologies and libraries used:
 
 * html

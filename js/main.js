@@ -24,5 +24,11 @@ const mobileMenu = document .querySelector(".mobile-menu")
 
 mobileMenu.addEventListener("click", () => {
     topMenu.classList.toggle("show-menu")
-
 } )
+
+const Form = document.querySelector(".form")
+const topLink = document.querySelector(".top-link")
+
+Form.addEventListener("click", () => {
+    Form.classList.add("show-menu")
+})

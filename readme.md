@@ -1,7 +1,7 @@
 # Advertising company website.  <br>
 Following technologies and libraries used:
 
-* html
+* htmlcd 
 * css
 * js 
 * sass
